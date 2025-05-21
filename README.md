@@ -40,3 +40,5 @@ git clone https://github.com/your-username/github-activity.git
 cd github-activity
 cargo build --release
 ```
+
+[project url](https://roadmap.sh/projects/github-user-activity)
